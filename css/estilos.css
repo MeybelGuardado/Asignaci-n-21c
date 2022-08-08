@@ -1,0 +1,52 @@
+h1{
+    color: #EEEEEE;
+    font-family: 'Anton', sans-serif;
+    text-align:center;
+    padding: 25px;
+    font-size: 35px
+}
+
+h2{
+    color: #222831;
+    font-family: 'Anton', sans-serif;
+    text-align:center;
+}
+
+h4{
+    color: #222831;
+    font-family: 'Anton', sans-serif;
+    text-align:left;
+}
+body{
+    background-color:#222831;
+}
+.cont{
+    color: black;
+    background-color:#00ADB5;
+    margin: 40px 200px;
+    padding: 50px;
+    justify-content: space-around;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #393E46;
+    text-align:justify;
+}
+
+.audiovi{
+    color: black;
+    background-color:#00ADB5;
+    margin: 40px 200px;
+    padding: 50px;
+    justify-content: space-around;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #393E46;
+    text-align:center;
+}
+
+.imagen{
+    text-align:center;
+}
+
+
+p{
+    font-size: 18px
+}
